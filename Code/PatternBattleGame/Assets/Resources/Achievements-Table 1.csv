@@ -1,0 +1,15 @@
+UniqueID,InternalName,Title,Description,Tier1,Tier2,Tier3,Artifact1,Artifact2,Artifact 3
+1,tap,Tappa Tappa Tappa,Perform {0} tap gestures.,50,500,5000,5,10,20
+2,flick,Flick of the Wrist,Perform {0} flick gestures.,50,500,5000,5,10,20
+3,drag,Drag Royalty,Perform {0} drag gestures.,50,500,5000,5,10,20
+4,rotate,You Spin Me Round,Perform {0} rotate gestures.,50,500,5000,5,10,20
+5,shake,Digital Maraca,Perform {0} colour swaps.,50,500,5000,5,10,20
+6,levelnum,Singleplayer Completionist,Complete level {0}.,20,50,100,5,10,20
+8,playmulti,Experienced Explorer,Play {0} games in multiplayer.,25,100,500,5,10,20
+9,losemulti,This is a Learning Experience,Lose {0} games in multiplayer.,10,50,100,5,10,20
+10,friends,You've Got a Friend in Me,Have {0} friends.,5,10,25,5,10,20
+11,patternlengthmulti,Memory Master,Complete a {0} tone sequence in multiplayer.,10,15,25,5,10,20
+12,days,Day-In Day-Out,Play for {0} consecutive days.,3,7,14,5,10,20
+13,roundsmulti,Hot Potato,Complete a multiplayer game that lasts {0} turns.,5,10,20,5,10,20
+14,replays,When at First You Don't Succeed…,Use {0} replays.,5,15,50,5,10,20
+16,artifacts,Galactic Archaeologist,Obtain {0} artifacts.,25,100,500,5,10,20

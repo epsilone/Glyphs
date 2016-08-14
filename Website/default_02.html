@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<meta charset="utf-8">
+
+	<title>Glyphs - Decode Your Memory</title>
+
+	<!-- Behavioral Meta Data -->
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<meta name="description" content="BZR Empire Publishing - Glyphs">
+	<meta name="keywords" content="Game Publishing">
+
+	<!-- Styles -->
+	<link rel="stylesheet" type="text/css" href="styles/styles.css"/>
+
+</head>
+<body>
+
+	<div id="container" class="container">
+		<ul id="scene" class="scene">
+			<li class="layer" data-depth="0.15"><img src="images/bg_01.png"></li>
+			<li class="layer" data-depth="1.0"><img src="images/bg_02.png"></li>
+			<li class="layer" data-depth="0.05"><img src="images/bg_03.png"></li>
+			<li class="layer" data-depth="0.50"><img src="images/glyphs_logo.png"></li>
+		</ul>
+	</div>
+
+	<!-- Scripts -->
+	<script src="deploy/parallax.js"></script>
+	<script>
+
+	// Pretty simple huh?
+	var scene = document.getElementById('scene');
+	var parallax = new Parallax(scene);
+
+	</script>
+
+</body>
+</html>

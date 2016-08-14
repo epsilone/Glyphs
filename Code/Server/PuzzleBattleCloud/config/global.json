@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Glyphs": {
+            "applicationId": "3kQttZXfm7lRDKj3Se5qAYxyNrJ9R6QmAVX1q6Tg", 
+            "masterKey": "gx7wowezLXkqLOPPaidBgdQTDtHIBJC1WYKIT7zF"
+        }, 
+        "_default": {
+            "link": "Glyphs"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.1"
+    }
+}

@@ -1,0 +1,480 @@
+fileFormatVersion: 2
+guid: 44b064f43eefe4d9e82c670b883470a3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: artifact_animation_0
+    21300002: artifact_animation_1
+    21300004: artifact_animation_2
+    21300006: artifact_animation_3
+    21300008: artifact_animation_4
+    21300010: artifact_animation_5
+    21300012: artifact_animation_6
+    21300014: artifact_animation_7
+    21300016: artifact_animation_8
+    21300018: artifact_animation_9
+    21300020: artifact_animation_10
+    21300022: artifact_animation_11
+    21300024: artifact_animation_12
+    21300026: artifact_animation_13
+    21300028: artifact_animation_14
+    21300030: artifact_animation_15
+    21300032: artifact_animation_16
+    21300034: artifact_animation_17
+    21300036: artifact_animation_18
+    21300038: artifact_animation_19
+    21300040: artifact_animation_20
+    21300042: artifact_animation_21
+    21300044: artifact_animation_22
+    21300046: artifact_animation_23
+    21300048: artifact_animation_24
+    21300050: artifact_animation_25
+    21300052: artifact_animation_26
+    21300054: artifact_animation_27
+    21300056: artifact_animation_28
+    21300058: artifact_animation_29
+    21300060: artifact_animation_30
+    21300062: artifact_animation_31
+    21300064: artifact_animation_32
+    21300066: artifact_animation_33
+    21300068: artifact_animation_34
+    21300070: artifact_animation_35
+    21300072: artifact_animation_36
+    21300074: artifact_animation_37
+    21300076: artifact_animation_38
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1000
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: artifact_animation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 755
+        width: 82
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: artifact_animation_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 755
+        width: 79
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: artifact_animation_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 755
+        width: 78
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: artifact_animation_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 604
+        width: 84
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: artifact_animation_4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 604
+        width: 79
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: artifact_animation_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 604
+        width: 78
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: artifact_animation_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 453
+        width: 84
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: artifact_animation_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 453
+        width: 80
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: artifact_animation_8
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 453
+        width: 79
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: artifact_animation_9
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 453
+        width: 74
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: artifact_animation_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 302
+        width: 86
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: artifact_animation_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 302
+        width: 80
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: artifact_animation_12
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 302
+        width: 79
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: artifact_animation_13
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 302
+        width: 74
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: artifact_animation_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 151
+        width: 86
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: artifact_animation_15
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 151
+        width: 80
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: artifact_animation_16
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 151
+        width: 79
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: artifact_animation_17
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 151
+        width: 78
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: artifact_animation_18
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 151
+        width: 77
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: artifact_animation_19
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 151
+        width: 77
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: artifact_animation_20
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 151
+        width: 76
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: artifact_animation_21
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 151
+        width: 76
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: artifact_animation_22
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 151
+        width: 75
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: artifact_animation_23
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 151
+        width: 74
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: artifact_animation_24
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 151
+        width: 74
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: artifact_animation_25
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 151
+        width: 74
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: artifact_animation_26
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 151
+        width: 74
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: artifact_animation_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 87
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: artifact_animation_28
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: artifact_animation_29
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: artifact_animation_30
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: artifact_animation_31
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: artifact_animation_32
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 80
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: artifact_animation_33
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 0
+        width: 80
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: artifact_animation_34
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 0
+        width: 80
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: artifact_animation_35
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 0
+        width: 80
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: artifact_animation_36
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: artifact_animation_37
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 0
+        width: 80
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: artifact_animation_38
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 0
+        width: 80
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

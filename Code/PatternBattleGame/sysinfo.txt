@@ -1,0 +1,219 @@
+System:
+  OS: Windows 7 Service Pack 1 (6.1.7601) 64bit
+  CPU: Intel(R) Core(TM) i7-2670QM CPU @ 2.20GHz, count: 8
+  Physical RAM: 8097 MB
+  Addressable RAM: 2048 MB
+
+D3D9:
+  Renderer: Intel(R) HD Graphics 3000
+  VendorID: 8086
+  Driver: nvumdshim.dll 9.18.13.697
+  VRAM: 880 (via DXGI)
+
+OpenGL:
+  Version: 3.1.0 - Build 9.17.10.2867
+  Vendor: Intel
+  Renderer: Intel(R) HD Graphics 3000
+  VRAM: 880 (via DXGI)
+  Extensions: GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_blend_color GL_EXT_abgr GL_EXT_texture3D GL_EXT_clip_volume_hint GL_EXT_compiled_vertex_array GL_SGIS_texture_edge_clamp GL_SGIS_generate_mipmap GL_EXT_draw_range_elements GL_SGIS_texture_lod GL_EXT_rescale_normal GL_EXT_packed_pixels GL_EXT_texture_edge_clamp GL_EXT_separate_specular_color GL_ARB_multitexture GL_EXT_texture_env_combine GL_EXT_bgra GL_EXT_blend_func_separate GL_EXT_secondary_color GL_EXT_fog_coord GL_EXT_texture_env_add GL_ARB_texture_cube_map GL_ARB_transpose_matrix GL_ARB_texture_env_add GL_IBM_texture_mirrored_repeat GL_EXT_multi_draw_arrays GL_NV_blend_square GL_ARB_texture_compression GL_3DFX_texture_compression_FXT1 GL_EXT_texture_filter_anisotropic GL_ARB_texture_border_clamp GL_ARB_point_parameters GL_ARB_texture_env_combine GL_ARB_texture_env_dot3 GL_ARB_texture_env_crossbar GL_EXT_texture_compression_s3tc GL_ARB_shadow GL_ARB_window_pos GL_EXT_shadow_funcs GL_EXT_stencil_wrap GL_ARB_vertex_program GL_EXT_texture_rectangle GL_ARB_fragment_program GL_EXT_stencil_two_side GL_ATI_separate_stencil GL_ARB_vertex_buffer_object GL_EXT_texture_lod_bias GL_ARB_occlusion_query GL_ARB_fragment_shader GL_ARB_shader_objects GL_ARB_shading_language_100 GL_ARB_texture_non_power_of_two GL_ARB_vertex_shader GL_NV_texgen_reflection GL_ARB_point_sprite GL_ARB_fragment_program_shadow GL_EXT_blend_equation_separate GL_ARB_depth_texture GL_ARB_texture_rectangle GL_ARB_draw_buffers GL_ARB_color_buffer_float GL_ARB_half_float_pixel GL_ARB_texture_float GL_ARB_pixel_buffer_object GL_EXT_framebuffer_object GL_ARB_draw_instanced GL_ARB_half_float_vertex GL_ARB_occlusion_query2 GL_EXT_draw_buffers2 GL_WIN_swap_hint GL_EXT_texture_sRGB GL_ARB_multisample GL_EXT_packed_float GL_EXT_texture_shared_exponent GL_ARB_texture_rg GL_ARB_texture_compression_rgtc GL_NV_conditional_render GL_EXT_texture_swizzle GL_ARB_sync GL_ARB_framebuffer_sRGB GL_EXT_packed_depth_stencil GL_ARB_depth_buffer_float GL_EXT_transform_feedback GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_ARB_framebuffer_object GL_EXT_texture_array GL_EXT_texture_integer GL_ARB_map_buffer_range GL_EXT_texture_snorm GL_INTEL_performance_queries GL_ARB_copy_buffer GL_ARB_sampler_objects GL_NV_primitive_restart GL_ARB_seamless_cube_map GL_ARB_uniform_buffer_object GL_ARB_depth_clamp GL_ARB_vertex_array_bgra GL_ARB_shader_bit_encoding GL_ARB_draw_buffers_blend GL_ARB_texture_query_lod GL_ARB_explicit_attrib_location GL_ARB_draw_elements_base_vertex GL_ARB_instanced_arrays GL_ARB_fragment_coord_conventions GL_EXT_gpu_program_parameters GL_ARB_texture_buffer_object_rgb32 GL_ARB_compatibility GL_ARB_texture_rgb10_a2ui GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_timer_query GL_INTEL_map_texture GL_ARB_vertex_array_object GL_ARB_provoking_vertex 
+
+User locale: en-CA
+System locale: en-CA
+
+Running processes:
+adb.exe (4304)
+    path: C:\Program Files (x86)\HTC\HTC Sync Manager\HTC Sync\adb.exe
+    company:  
+    product:  
+    filedesc: 
+    filever:  0.0.0.0
+    prodver:  0.0.0.0
+ATKOSD2.exe (4944)
+    path: C:\Program Files (x86)\ASUS\ATK Package\ATKOSD2\ATKOSD2.exe
+    company:  ASUS
+    product:  ATKOSD2
+    filedesc: ATKOSD2
+    filever:  7.0.12.5
+    prodver:  7.0.12.0
+AsScrPro.exe (4144)
+    path: C:\Windows\AsScrPro.exe
+    company:  ASUS
+    product:  ASUS Screen Saver Protector
+    filedesc: AsScrPro
+    filever:  1.0.0.9
+    prodver:  1.0.0.9
+CLMLSvc.exe (3836)
+    path: C:\Program Files (x86)\CyberLink\Power2Go\CLMLSvc.exe
+    company:  CyberLink
+    product:  CyberLink MediaLibray Service
+    filedesc: CyberLink MediaLibray Service
+    filever:  2.1.1803.0
+    prodver:  2.1.1803.0
+AvastUI.exe (5804)
+    path: C:\Program Files\AVAST Software\Avast\AvastUI.exe
+    company:  AVAST Software
+    product:  avast! Antivirus
+    filedesc: avast! Antivirus
+    filever:  9.0.2008.177
+    prodver:  9.0.2008.177
+jusched.exe (5816)
+    path: C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe
+    company:  Oracle Corporation
+    product:  Java(TM) Platform SE Auto Updater
+    filedesc: Java(TM) Update Scheduler
+    filever:  2.1.9.8
+    prodver:  2.1.9.8
+Dropbox.exe (5052)
+    path: C:\Users\Ben\AppData\Roaming\Dropbox\bin\Dropbox.exe
+    company:  Dropbox, Inc.
+    product:  Dropbox
+    filedesc: Dropbox
+    filever:  2.4.11.0
+    prodver:  1.0.0.1
+Steam.exe (28312)
+    path: C:\Program Files (x86)\Steam\Steam.exe
+    company:  Valve Corporation
+    product:  Steam Client Bootstrapper
+    filedesc: Steam Client Bootstrapper
+    filever:  2.13.4.49
+    prodver:  1.0.0.1
+rads_user_kernel.exe (30056)
+    path: C:\Riot Games\League of Legends\RADS\system\rads_user_kernel.exe
+    company:  
+    product:  PVP.net Patcher Kernel
+    filedesc: PVP.net Patcher Kernel
+    filever:  0.0.0.0
+    prodver:  0.0.0.0
+LoLLauncher.exe (16656)
+    path: C:\Riot Games\League of Legends\RADS\projects\lol_launcher\releases\0.0.0.200\deploy\LoLLauncher.exe
+    company:  
+    product:  PVP.net Patcher
+    filedesc: PVP.net Patcher
+    filever:  2.5.0.422
+    prodver:  2.5.0.422
+LolClient.exe (30620)
+    path: C:\Riot Games\League of Legends\RADS\projects\lol_air_client\releases\0.0.1.74\deploy\LolClient.exe
+    company:  
+    product:  
+    filedesc: 
+    filever:  0.0.0.0
+    prodver:  0.0.0.0
+chrome.exe (27460)
+    path: C:\Users\Ben\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  33.0.1750.117
+    prodver:  33.0.1750.117
+chrome.exe (29572)
+    path: C:\Users\Ben\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  33.0.1750.117
+    prodver:  33.0.1750.117
+chrome.exe (23664)
+    path: C:\Users\Ben\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  33.0.1750.117
+    prodver:  33.0.1750.117
+chrome.exe (28260)
+    path: C:\Users\Ben\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  33.0.1750.117
+    prodver:  33.0.1750.117
+chrome.exe (25224)
+    path: C:\Users\Ben\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  33.0.1750.117
+    prodver:  33.0.1750.117
+chrome.exe (30508)
+    path: C:\Users\Ben\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  33.0.1750.117
+    prodver:  33.0.1750.117
+chrome.exe (28588)
+    path: C:\Users\Ben\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  33.0.1750.117
+    prodver:  33.0.1750.117
+chrome.exe (27196)
+    path: C:\Users\Ben\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  33.0.1750.117
+    prodver:  33.0.1750.117
+chrome.exe (10724)
+    path: C:\Users\Ben\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  33.0.1750.117
+    prodver:  33.0.1750.117
+chrome.exe (29020)
+    path: C:\Users\Ben\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  33.0.1750.117
+    prodver:  33.0.1750.117
+chrome.exe (26016)
+    path: C:\Users\Ben\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  33.0.1750.117
+    prodver:  33.0.1750.117
+chrome.exe (24332)
+    path: C:\Users\Ben\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  33.0.1750.117
+    prodver:  33.0.1750.117
+MonoDevelop.exe (25320)
+    path: C:\Program Files (x86)\Unity\MonoDevelop\bin\MonoDevelop.exe
+    company:  
+    product:  MonoDevelop
+    filedesc: MonoDevelop
+    filever:  2.6.0.0
+    prodver:  2.6.0.0
+chrome.exe (24600)
+    path: C:\Users\Ben\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  33.0.1750.117
+    prodver:  33.0.1750.117
+Unity.exe (24148)
+    path: C:\Program Files (x86)\Unity\Editor\Unity.exe
+    company:  Unity Technologies ApS
+    product:  Unity
+    filedesc: Unity Editor
+    filever:  4.3.2.30490
+    prodver:  4.3.2.30490
+chrome.exe (15644)
+    path: C:\Users\Ben\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  33.0.1750.117
+    prodver:  33.0.1750.117
+UnityBugReporter.exe (22008)
+    path: C:\Program Files (x86)\Unity\Editor\UnityBugReporter.exe
+    company:  Unity Technologies ApS
+    product:  Unity Bug Reporter
+    filedesc: Unity Bug Reporter
+    filever:  4.3.2.30490
+    prodver:  4.3.2.30490

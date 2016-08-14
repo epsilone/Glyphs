@@ -1,0 +1,22 @@
+Level,# of Buttons,Min_Tap,Min_Drag,Min_Flick,Min_Rotation,Min_ColourSwap,Min_Random,EndLength,Rand_Tap,Rand_Drag,Rand_Flick,Rand_Rotation,Rand_ColourSwap,StartLength,Replay Cost,Win Artifact,Notes,Slow Build
+int,int,int,int,int,int,int,int,int,bool,bool,bool,bool,bool,,int,int,string,bool
+1,4,3,0,0,0,0,0,3,FALSE,FALSE,FALSE,FALSE,FALSE,3,0,1,Intoduces the player to the basic mechanic of repeating the pattern,TRUE
+2,3,5,0,0,0,0,0,5,FALSE,FALSE,FALSE,FALSE,FALSE,3,0,1,Introduces the player to the possibility of 3 buttons,TRUE
+3,5,5,0,0,0,0,0,5,FALSE,FALSE,FALSE,FALSE,FALSE,3,0,1,Introduces the player to the possibility of 5 buttons,TRUE
+4,4,5,0,0,0,0,0,5,FALSE,FALSE,FALSE,FALSE,FALSE,5,0,1,Introduces the player to the possibility of a sequence playing without build up,FALSE
+5,4,0,0,3,0,0,0,3,FALSE,FALSE,FALSE,FALSE,FALSE,3,0,1,Introduces the player to the flicking mechanic,TRUE
+6,5,2,0,3,0,0,0,5,FALSE,FALSE,FALSE,FALSE,FALSE,3,0,1,Introduces the player to mechanic combos,TRUE
+7,5,0,4,0,0,0,0,4,FALSE,FALSE,FALSE,FALSE,FALSE,3,0,1,Introduces the player to the dragging mechanic,TRUE
+8,4,2,2,2,0,0,0,6,FALSE,FALSE,FALSE,FALSE,FALSE,3,1,2,Introduction to Memory Levels and Replays,TRUE
+9,5,2,2,2,0,0,0,6,FALSE,FALSE,FALSE,FALSE,FALSE,3,1,2,,TRUE
+10,3,2,2,2,0,0,0,6,FALSE,FALSE,FALSE,FALSE,FALSE,6,1,2,,FALSE
+11,4,2,2,2,0,0,0,6,FALSE,FALSE,FALSE,FALSE,FALSE,6,1,2,,FALSE
+12,5,2,2,2,0,0,0,6,FALSE,FALSE,FALSE,FALSE,FALSE,6,1,2,,FALSE
+13,4,2,2,2,0,0,2,8,TRUE,TRUE,TRUE,FALSE,FALSE,3,1,2,,TRUE
+14,5,2,2,2,0,0,2,8,TRUE,TRUE,TRUE,FALSE,FALSE,3,1,2,,TRUE
+15,3,2,2,2,0,0,2,8,TRUE,TRUE,TRUE,FALSE,FALSE,8,1,2,,FALSE
+16,4,2,2,2,0,0,2,8,TRUE,TRUE,TRUE,FALSE,FALSE,8,1,2,,FALSE
+17,5,2,2,2,0,0,2,8,TRUE,TRUE,TRUE,FALSE,FALSE,8,1,2,,FALSE
+18,4,0,0,0,3,0,2,5,TRUE,TRUE,TRUE,FALSE,FALSE,3,1,2,Introduces the player to the rotation mechanic. Note that this level is designed so that at least one of the first 3 moves is a rotate.,TRUE
+19,5,0,0,0,3,0,2,5,TRUE,TRUE,TRUE,FALSE,FALSE,3,1,2,,TRUE
+20,4,0,0,0,0,2,3,5,TRUE,TRUE,TRUE,TRUE,FALSE,3,1,2,Introduces the player to the colour swap mechanic. Note that this level is designed so that at least one of the first 3 moves is a colour swap. End of Tutorial.,TRUE
